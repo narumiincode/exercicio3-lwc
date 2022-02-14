@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/narumiincode.exercicio3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve u8ZzO4IXXDiO2wR1n0uW --open"
+  }
+}
